@@ -48,7 +48,6 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:contact@blackknight683.tk"><img src="https://img.shields.io/badge/-Contact Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://discord.gg/S2GGa23"><img src="https://img.shields.io/badge/Oofy's Motel-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discord.gg/S2GGa23"><img src="https://img.shields.io/badge/Oofy's Motel-%237289DA.svg?style=flat&logo=discord&logoColor=white"/></a>
 
 
