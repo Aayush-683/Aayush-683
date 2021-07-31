@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-### Im BlackKnight, A dumb developer working mainly in the discord api feild 😅
+### Im BlackKnight, A dumb developer working mainly in the discord api field 😅
 
 ### 💻 &nbsp;About Me 
 
