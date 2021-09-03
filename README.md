@@ -1,4 +1,6 @@
-### Hey there 👋
+<div align="center">
+<img src="https://media.discordapp.net/attachments/779285545775661076/883381823835611206/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f677265657469.gif?width=803&height=452" align="center" style="width: 100%" />
+</div>  
 
 ### Im BlackKnight, A dumb developer working mainly in the discord api field 😅
 
