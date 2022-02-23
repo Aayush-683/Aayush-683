@@ -2,7 +2,7 @@
 <img src="https://media.discordapp.net/attachments/779285545775661076/883381823835611206/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f677265657469.gif?width=803&height=452" align="center" style="width: 100%" />
 </div>  
 
-### Im BlackKnight, A dumb developer working mainly in the discord api field 😅
+### Im Oofy, A dumb developer working mainly in the javascript environment 😅
 
 ### 💻 &nbsp;About Me 
 
@@ -18,10 +18,12 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat)
 
 - 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
 - ⚛ &nbsp;
   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
