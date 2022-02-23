@@ -49,6 +49,7 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+<a href="mail:oofy@solonodes.net"><img src="https://img.shields.io/badge/oofy@solonodes.net-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://solonodes.net/discord"><img src="https://img.shields.io/badge/SoloNodes | Free Bot Hosting-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 
