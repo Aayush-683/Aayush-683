@@ -49,7 +49,6 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://discord.gg/S2GGa23"><img src="https://img.shields.io/badge/Oofy's Motel-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://solonodes.xyz/discord"><img src="https://img.shields.io/badge/SoloNodes | Freemium Hosting-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://solonodes.net/discord"><img src="https://img.shields.io/badge/SoloNodes | Free Bot Hosting-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 
