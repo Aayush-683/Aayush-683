@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; I love helping people and sharing my knowledge and experiences with fellow devs who are trying to reach them
 - 🎓 &nbsp; Currently i learn everything from youtube, online sites (*stackoverflow moment*) and ofcourse the good old trial and error methods
-- 🌐 &nbsp; I run a freemium web & application hosting commany called [SoloNodes](https://solonodes.xyz) to provide beginner devs with a great workspace to work on at the start :D
+- 🌐 &nbsp; I run a freemium web & application hosting thingy called [SoloNodes](https://solonodes.xyz) to provide beginner devs with a great workspace to work on at the start :D
 
 
 ### 🛠 &nbsp;Tech Stack
