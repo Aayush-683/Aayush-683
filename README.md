@@ -52,7 +52,7 @@
 ## My Stats
 <p style="display: inline-block">
 <a href="https://github.com/BlackKnight683">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush-683&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush-683&show_icons=true&theme=radical&hide=contribs" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aayush-683&theme=radical&layout=compact" />
 </a>
 </p>
@@ -60,6 +60,6 @@
 
 ##  🤝🏻 &nbsp;Connect with Me
 
-<a href="mail:dugout_foliage0j@icloud.com"><img src="https://img.shields.io/badge/Connect Via Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![](https://img.shields.io/badge/Connect%20Via%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dugout_foliage0j@icloud.com)
 
 
