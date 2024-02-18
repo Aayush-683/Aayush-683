@@ -2,13 +2,13 @@
 <img src="https://media.discordapp.net/attachments/779285545775661076/883381823835611206/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f677265657469.gif?width=803&height=452" align="center" style="width: 100%" />
 </div>  
 
-### Im Oofy, A dumb developer working mainly in the javascript environment 😅
+### Im Oofy, A developer working mainly in the NodeJS environment
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; I love helping people and sharing my knowledge and experiences with fellow devs who are trying to reach them
-- 🎓 &nbsp; Currently i learn everything from youtube, online sites (*stackoverflow moment*) and ofcourse the good old trial and error methods
-- 🌐 &nbsp; I run a freemium web & application hosting thingy called [SoloNodes](https://solonodes.xyz) to provide beginner devs with a great workspace to work on at the start :D
+- 🤔 &nbsp; I love helping people and sharing my knowledge and experiences with fellow devs who are trying to reach them. Making goofy sites is one of the things i don't pass on.
+- 🎓 &nbsp; Studying at SIU, I currently grow my techstack using youtube, online sites (*stackoverflow moment*) and ofcourse the good old trial and error methods
+- 🌐 &nbsp; I used to run a freemium web & application hosting thingy called [SoloNodes](https://solonodes.net) to provide beginner devs with a great workspace to work on at the start. Sold it as a lot of people love to exploit free things.
 
 
 ### 🛠 &nbsp;Tech Stack
