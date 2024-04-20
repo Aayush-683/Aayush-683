@@ -65,5 +65,3 @@
 
 [![](https://img.shields.io/badge/Connect%20Via%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushgoel683@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/aayushgoel683)
-[
-
