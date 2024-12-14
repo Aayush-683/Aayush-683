@@ -61,7 +61,7 @@
 
 <p style="display: inline-block;">
 <a href="https://github.com/Aayush-683">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush-683&show_icons=true&theme=gotham" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush-683&show_icons=true&include_all_commits=true&theme=gotham" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aayush-683&theme=gotham&layout=compact" />
 </a>
 </p>
