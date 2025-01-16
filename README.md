@@ -2,14 +2,14 @@
 <img src="/new_banner.gif" width="600">
 </div>  
 
-### I'm Aayush, a Developer Working Mainly in the NodeJS Environment
+### I'm Aayush - Full Stack Developer | Tech Enthusiast
 
 ### 💻 About Me
 
-- 🤔 &nbsp; I love helping people and sharing my knowledge and experiences with fellow devs. Creating quirky and fun sites is one of my passions.
-- 🎓 &nbsp; Studying at SIU, I expand my tech stack through YouTube, online resources (hello, Stack Overflow!), and the good old trial and error method.
-- 🌐 &nbsp; Previously, I worked on a freemium web & application hosting service called [SoloNodes](https://solonodes.net) to provide beginner devs with VPS hosting for their projects. I eventually sold it as many were exploiting the free service.
-- 🧠 &nbsp; Currently, I'm mastering full-stack development using the MERN stack, along with managing mobile programming and PHP at University.
+- 🌟 &nbsp; Passionate about empowering others through technology and sharing knowledge. Whether it's building quirky websites or crafting robust back-end systems, I thrive on creating meaningful digital experiences.
+- 🎓 &nbsp; As a BCA student at Symbiosis Institute of Computer Studies and Research, I'm constantly evolving my skill set through practical projects, online resources, and hands-on experimentation.
+- 🌐 &nbsp; My journey includes leading [SoloNodes](https://solonodes.net), a freemium web & application hosting service aimed at supporting budding developers. This venture honed my leadership skills and deepened my understanding of managing scalable services.
+- 🧠 &nbsp; Currently, I'm delving deeper into the MERN stack, mastering mobile development, and exploring PHP applications. I enjoy tackling complex challenges and learning from each project I undertake.
 
 ### 🛠 Tech Stack
 
@@ -22,6 +22,7 @@
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
 - 🖨️ &nbsp;
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
@@ -29,10 +30,10 @@
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
   ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat)
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat&logo=kalilinux&logoColor=white)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
@@ -43,6 +44,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
+  ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220)
 
 - 📚 &nbsp;
   ![CodePen](https://img.shields.io/badge/CodePen-white?style=flat&logo=codepen&logoColor=black)
@@ -52,19 +54,27 @@
 
 - 🔧 &nbsp;
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-  ![Replit](https://img.shields.io/badge/Replit-DD1200?style=flat&logo=Replit&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=flat&logo=android%20studio&logoColor=white)
 
-## My Stats
+### 🌟 Highlights
 
-<p style="display: inline-block;">
-<a href="https://github.com/Aayush-683">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush-683&show_icons=true&include_all_commits=true&theme=gotham" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aayush-683&theme=gotham&layout=compact" />
-</a>
-</p>
+- 🏆 **Achievements**: Winner of the Internal Hackathon at SICSR, showcasing innovative solutions under competitive timelines.
+- 💡 **Projects**: From 'WA Bulk Messenger' leveraging Meta API to 'IntroSpex' for real-time device insights, each project is a testament to my commitment to solving real-world problems with tech.
+
+## 📈 My Stats
+
+<div style="display: flex; flex-direction=row; flex-wrap=wrap; gap=35px;">
+  <a href="https://github.com/Aayush-683">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush-683&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true&rank_icon=percentile" />
+  </a>
+  <a href="https://github.com/Aayush-683">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-683&theme=midnight-purple&show_icons=true&hide_border=false&layout=donut" />
+  </a>
+<!--   <a href="https://github.com/Aayush-683">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Aayush_683&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" />
+  </a> -->
+</div>
 
 ## 🤝 Connect with Me
 
