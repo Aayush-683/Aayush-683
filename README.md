@@ -66,10 +66,10 @@
 
 <div style="display: flex; flex-direction=row; flex-wrap=wrap; gap=35px;">
   <a href="https://github.com/Aayush-683">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush-683&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true&rank_icon=percentile" />
+    <img height="180em" src="https://github-readme-stats-7nlo.onrender.com?username=Aayush-683&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true&rank_icon=percentile" />
   </a>
   <a href="https://github.com/Aayush-683">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-683&theme=midnight-purple&show_icons=true&hide_border=false&layout=donut" />
+    <img height="180em" src="https://github-readme-stats-7nlo.onrender.com/top-langs/?username=Aayush-683&theme=midnight-purple&show_icons=true&hide_border=false&layout=donut" />
   </a>
 <!--   <a href="https://github.com/Aayush-683">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Aayush_683&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" />
