@@ -9,7 +9,7 @@
 - 🌟 &nbsp; Passionate about empowering others through technology and sharing knowledge. Whether it's building quirky websites or crafting robust back-end systems, I thrive on creating meaningful digital experiences.
 - 🎓 &nbsp; As a BCA student at Symbiosis Institute of Computer Studies and Research, I'm constantly evolving my skill set through practical projects, online resources, and hands-on experimentation.
 - 🌐 &nbsp; My journey includes leading [SoloNodes](https://solonodes.net), a freemium web & application hosting service aimed at supporting budding developers. This venture honed my leadership skills and deepened my understanding of managing scalable services.
-- 🧠 &nbsp; Currently, I'm delving deeper into the MERN stack, mastering mobile development, and exploring PHP applications. I enjoy tackling complex challenges and learning from each project I undertake.
+- 🧠 &nbsp; Currently, I'm delving deeper into the MERN stack, mastering full stack development, and exploring NextJS applications. I enjoy tackling complex challenges and learning from each project I undertake.
 
 ### 🛠 Tech Stack
 
@@ -39,6 +39,7 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
 - ⚛ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -47,10 +48,7 @@
   ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220)
 
 - 📚 &nbsp;
-  ![CodePen](https://img.shields.io/badge/CodePen-white?style=flat&logo=codepen&logoColor=black)
-  ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)
-  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)
-  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)
+  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/aayushgoel05)
 
 - 🔧 &nbsp;
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
@@ -60,20 +58,37 @@
 ### 🌟 Highlights
 
 - 🏆 **Achievements**: Winner of the Internal Hackathon at SICSR, showcasing innovative solutions under competitive timelines.
-- 💡 **Projects**: From 'WA Bulk Messenger' leveraging Meta API to 'IntroSpex' for real-time device insights, each project is a testament to my commitment to solving real-world problems with tech.
+- 💡 **Projects**: From 'WA Bulk Messenger' leveraging Meta API to 'IntroSpex' for real-time device insights, each project is a testament to my commitment to building interesting ideas with tech.
 
 ## 📈 My Stats
 
 <div style="display: flex; flex-direction=row; flex-wrap=wrap; gap=35px;">
   <a href="https://github.com/Aayush-683">
-    <img height="180em" src="https://github-readme-stats-7nlo.onrender.com?username=Aayush-683&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true&rank_icon=percentile" />
+    <picture>
+      <source
+        srcset="https://github-readme-stats-7nlo.onrender.com?username=Aayush-683&theme=catppuccin_mocha&show_icons=true&hide_border=false&count_private=true&rank_icon=percentile&custom_title=Github Stats"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-7nlo.onrender.com?username=Aayush-683&theme=catppuccin_latte&show_icons=true&hide_border=false&count_private=true&rank_icon=percentile&custom_title=Github Stats"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="200em" src="https://github-readme-stats-7nlo.onrender.com?username=Aayush-683&show_icons=true" />
+    </picture>
   </a>
   <a href="https://github.com/Aayush-683">
-    <img height="180em" src="https://github-readme-stats-7nlo.onrender.com/top-langs/?username=Aayush-683&theme=midnight-purple&show_icons=true&hide_border=false&layout=donut" />
+    <picture>
+      <source
+        srcset="https://github-readme-stats-7nlo.onrender.com/top-langs/?username=Aayush-683&theme=catppuccin_mocha&show_icons=true&hide_border=false&layout=donut&size_weight=0.5&count_weight=0.5"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-7nlo.onrender.com/top-langs/?username=Aayush-683&theme=catppuccin_latte&show_icons=true&hide_border=false&layout=donut&size_weight=0.5&count_weight=0.5"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="200em" src="https://github-readme-stats-7nlo.onrender.com/top-langs/?username=Aayush-683&show_icons=true" />
+    </picture>
   </a>
-<!--   <a href="https://github.com/Aayush-683">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Aayush_683&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" />
-  </a> -->
 </div>
 
 ## 🤝 Connect with Me
