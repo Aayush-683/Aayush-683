@@ -11,7 +11,7 @@
 * 🌟 &nbsp; Passionate about crafting **meaningful digital experiences**, from engaging front-ends to scalable back-end systems.
 * 👨‍💻 &nbsp; Currently a **Full-stack Developer** at [Mulltiply](https://mulltiply.com)
 * 🎓 &nbsp; Pursuing **BCA (Hons. in Data Security)** at **SICSR, Symbiosis International University**, Pune (2022–2025).
-* 🌐 &nbsp; Founder of [SoloNodes](https://solonodes.net), a freemium web/app hosting platform supporting thousands of developers.
+* 🌐 &nbsp; Ex-Founder of [SoloNodes](https://solonodes.net), a freemium web/app hosting platform supporting thousands of developers.
 * 🧠 &nbsp; Deep diving into the **MERN stack**, **Next.js**, and real-time API systems. Actively exploring **OAuth flows**, **SSO**, and AI-powered productivity tools.
 
 ---
