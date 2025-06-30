@@ -105,7 +105,7 @@
 
 ## 🤝 Connect with Me
 
-[![Resume](https://img.shields.io/badge/My%20Resume-%23000000.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://aayush-683.github.io/resume)
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://aayush-683.github.io)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushgoel683@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goel-aayush)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/486486355157843979)
