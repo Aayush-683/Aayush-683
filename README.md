@@ -99,6 +99,19 @@
       <img height="200em" src="https://github-readme-stats-7nlo.onrender.com/top-langs/?username=Aayush-683&show_icons=true" alt="Top Languages" />
     </picture>
   </a>
+   <a href="https://github.com/Aayush-683">
+    <picture>
+      <source
+        srcset="https://streak-stats.demolab.com/?user=Aayush-683&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://streak-stats.demolab.com/?user=Aayush-683&theme=light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="200em" src="https://streak-stats.demolab.com/?user=Aayush-683&theme=dark" alt="Contributions" />
+    </picture>
+  </a>
 </div>
 
 ---
