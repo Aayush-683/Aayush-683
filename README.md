@@ -2,24 +2,24 @@
   <img src="/new_banner.gif" width="600">
 </div>
 
-### Hey there, I'm Aayush — Full Stack Developer | Tech Enthusiast
+### Hey there, I'm Aayush — Engineering Lead | Backend & Automation
 
 ---
 
 ### 💻 About Me
 
-* 🌟 &nbsp; Passionate about crafting **meaningful digital experiences**, from engaging front-ends to scalable back-end systems.
-* 👨‍💻 &nbsp; Currently a **Full-stack Developer** at [Mulltiply](https://mulltiply.com)
-* 🎓 &nbsp; Pursuing **BCA (Hons. in Data Security)** at **SICSR, Symbiosis International University**, Pune (2022–2025).
+* 👨‍💻 &nbsp; **Engineering Lead** at [Mulltiply](https://mulltiply.com) — leading a cross-functional team building a WhatsApp-first B2B commerce platform.
+* 🛠️ &nbsp; Building backend systems that hold up in production — distributed **Node.js microservices** on Kubernetes, WhatsApp & Instagram commerce infrastructure, and AI pipelines.
+* 🎓 &nbsp; **BCA (Hons. in Data Security)**, SICSR, Symbiosis International University, Pune (2022–2025).
 * 🌐 &nbsp; Ex-Founder of [SoloNodes](https://solonodes.net), a freemium web/app hosting platform supporting thousands of developers.
-* 🧠 &nbsp; Deep diving into the **MERN stack**, **Next.js**, and real-time API systems. Actively exploring **OAuth flows**, **SSO**, and AI-powered productivity tools.
+* 📄 &nbsp; More on my background, projects, and resume → [aayushgoel.dev](https://aayushgoel.dev)
 
 ---
 
 ### 🌟 Highlights
 
 * 🏆 **Winner – Internal Hackathon, SICSR (Dec 2024)**: Led a team to deliver a winning tech solution within 24 hours.
-* 💼 **Intern – Mulltiply Tech (Jan 2025 – Present)**: Engineered end-to-end backend systems, real-time dashboards, and automation tools.
+* 💼 **Engineering Lead – Mulltiply Tech (Feb 2026 – Present)**: Leading a 3-engineer team across backend architecture, Instagram/WhatsApp commerce infra, and AI-driven automation. Joined Jan 2025 as a Full Stack Engineer.
 * 📜 **Certified Software Engineer Intern – HackerRank (Mar 2024)**: Certified in **Node.js**, **Web Development**, and **MySQL/MongoDB**.
 
 ---
@@ -118,7 +118,7 @@
 
 ## 🤝 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-333333.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://aayush-683.github.io)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushgoel683@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://aayushgoel.dev)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@aayushgoel.dev)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goel-aayush)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/486486355157843979)
