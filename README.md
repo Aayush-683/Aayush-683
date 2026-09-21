@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/new_banner.gif" width="600" alt="Aayush Goel — Engineering Lead, Backend & Automation">
+  <img src="/banner.webp" width="600" alt="Aayush Goel — Engineering Lead, Backend & Automation">
 
   <h1>Aayush Goel</h1>
 
