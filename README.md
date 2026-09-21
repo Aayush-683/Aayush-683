@@ -97,10 +97,10 @@
 
 <div align="center">
   <a href="https://github.com/Aayush-683">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Aayush-683&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+    <img height="165em" src="https://github-readme-stats-7nlo.onrender.com?username=Aayush-683&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile&custom_title=GitHub%20Stats" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Aayush-683">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-683&theme=catppuccin_mocha&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+    <img height="165em" src="https://github-readme-stats-7nlo.onrender.com/top-langs/?username=Aayush-683&theme=catppuccin_mocha&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
   </a>
 </div>
 
